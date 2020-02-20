@@ -1,0 +1,222 @@
+[
+ {
+   "user_id": 0,
+   "user_name": "MARTIN",
+   "user_gender": 1,
+   "user_first_name": "mylann",
+   "user_email": "email1@gmail.com",
+   "bar_type": "Bar à bière",
+   "bar_location": "Gambetta",
+   "alcohol_name": "Bière",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 1,
+   "user_name": "BERNARD",
+   "user_gender": 1,
+   "user_first_name": "kenzo",
+   "user_email": "email2@gmail.com",
+   "bar_type": "Bar à vin",
+   "bar_location": "Victoire",
+   "alcohol_name": "Bière",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 2,
+   "user_name": "THOMAS",
+   "user_gender": 1,
+   "user_first_name": "adam",
+   "user_email": "email3@gmail.com",
+   "bar_type": "Bar à vin",
+   "bar_location": "Saint Pierre",
+   "alcohol_name": "Bière",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 3,
+   "user_name": "PETIT",
+   "user_gender": 1,
+   "user_first_name": "nino",
+   "user_email": "email4@gmail.com",
+   "bar_type": "Bar à rhum",
+   "bar_location": "Victoire",
+   "alcohol_name": "Bière",
+   "user_acceptance": false
+ },
+ {
+   "user_id": 4,
+   "user_name": "ROBERT",
+   "user_gender": 1,
+   "user_first_name": "vivien",
+   "user_email": "email5@gmail.com",
+   "bar_type": "Bar",
+   "bar_location": "Saint Rémi",
+   "alcohol_name": "Rhum",
+   "user_acceptance": false
+ },
+ {
+   "user_id": 5,
+   "user_name": "RICHARD",
+   "user_gender": 1,
+   "user_first_name": "lorys",
+   "user_email": "email6@gmail.com",
+   "bar_type": "Bar à bière",
+   "bar_location": "Saint Michel",
+   "alcohol_name": "Vodka",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 6,
+   "user_name": "DURAND",
+   "user_gender": 1,
+   "user_first_name": "côme",
+   "user_email": "email7@gmail.com",
+   "bar_type": "Pub",
+   "bar_location": "Gambetta",
+   "alcohol_name": "Cachaca",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 7,
+   "user_name": "DUBOIS",
+   "user_gender": 1,
+   "user_first_name": "théodore",
+   "user_email": "email8@gmail.com",
+   "bar_type": "Bar à cocktails",
+   "bar_location": "Saint Pierre",
+   "alcohol_name": "Rhum",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 8,
+   "user_name": "MOREAU",
+   "user_gender": 2,
+   "user_first_name": "Emma",
+   "user_email": "email9@gmail.com",
+   "bar_type": "Bar à vin",
+   "bar_location": "Gambetta",
+   "alcohol_name": "Bière",
+   "user_acceptance": false
+ },
+ {
+   "user_id": 9,
+   "user_name": "LAURENT",
+   "user_gender": 2,
+   "user_first_name": "Jade",
+   "user_email": "email10@gmail.com",
+   "bar_type": "Bar Gay",
+   "bar_location": "Hotel de Ville",
+   "alcohol_name": "Bière",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 10,
+   "user_name": "SIMON",
+   "user_gender": 2,
+   "user_first_name": "Louise",
+   "user_email": "email11@gmail.com",
+   "bar_type": "Pub",
+   "bar_location": "Victoire",
+   "alcohol_name": "Rhum",
+   "user_acceptance": false
+ },
+ {
+   "user_id": 11,
+   "user_name": "MICHEL",
+   "user_gender": 2,
+   "user_first_name": "Alice",
+   "user_email": "email12@gmail.com",
+   "bar_type": "PUB Anglais",
+   "bar_location": "Victoire",
+   "alcohol_name": "Rhum",
+   "user_acceptance": false
+ },
+ {
+   "user_id": 12,
+   "user_name": "LEFEBVRE",
+   "user_gender": 2,
+   "user_first_name": "Chloé",
+   "user_email": "email13@gmail.com",
+   "bar_type": "Bar à bière",
+   "bar_location": "Hotel de Ville",
+   "alcohol_name": "Tequila",
+   "user_acceptance": false
+ },
+ {
+   "user_id": 13,
+   "user_name": "LEROY",
+   "user_gender": 2,
+   "user_first_name": "Lina",
+   "user_email": "email14@gmail.com",
+   "bar_type": "Bar à Cocktails",
+   "bar_location": "Saint Pierre",
+   "alcohol_name": "Whisky Bourbon",
+   "user_acceptance": false
+ },
+ {
+   "user_id": 14,
+   "user_name": "ROUX",
+   "user_gender": 2,
+   "user_first_name": "Léa",
+   "user_email": "email15@gmail.com",
+   "bar_type": "Bar à Cocktails",
+   "bar_location": "Saint Pierre",
+   "alcohol_name": "Gin",
+   "user_acceptance": false
+ },
+ {
+   "user_id": 15,
+   "user_name": "DAVID",
+   "user_gender": 2,
+   "user_first_name": "Rose",
+   "user_email": "email16@gmail.com",
+   "bar_type": "Bar à vin",
+   "bar_location": "Gambetta",
+   "alcohol_name": "Gin",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 16,
+   "user_name": "BERTRAND",
+   "user_gender": 2,
+   "user_first_name": "Anna",
+   "user_email": "email17@gmail.com",
+   "bar_type": "Bar à vin",
+   "bar_location": "Chartrons",
+   "alcohol_name": "Tequila",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 17,
+   "user_name": "MOREL",
+   "user_gender": 2,
+   "user_first_name": "Mila",
+   "user_email": "email18@gmail.com",
+   "bar_type": "Bar ",
+   "bar_location": "Hôtel de Ville",
+   "alcohol_name": "Vodka",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 18,
+   "user_name": "FOURNIER",
+   "user_gender": 2,
+   "user_first_name": "Inès",
+   "user_email": "email19@gmail.com",
+   "bar_type": "Bar à rhum",
+   "bar_location": "Victoire",
+   "alcohol_name": "Vin",
+   "user_acceptance": true
+ },
+ {
+   "user_id": 19,
+   "user_name": "GIRARD",
+   "user_gender": 1,
+   "user_first_name": "Philippe",
+   "user_email": "email20@gmail.com",
+   "bar_type": "Bar à Cocktails",
+   "bar_location": "Victoire",
+   "alcohol_name": "Whisky Bourbon",
+   "user_acceptance": false
+ }
+]
