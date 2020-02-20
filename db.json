@@ -1,224 +1,359 @@
 {
-  "users": [
+  "bars": [
     {
-      "user_id": 0,
-      "user_name": "MARTIN",
-      "user_gender": 1,
-      "user_first_name": "mylann",
-      "user_email": "email1@gmail.com",
-      "bar_type": "Bar à bière",
+      "bar_id": 0,
+      "bar_name": "Au fût et à mesure",
       "bar_location": "Gambetta",
-      "alcohol_type": "Bière",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 1,
-      "user_name": "BERNARD",
-      "user_gender": 1,
-      "user_first_name": "kenzo",
-      "user_email": "email2@gmail.com",
-      "bar_type": "Bar à Vin",
-      "bar_location": "Victoire",
-      "alcohol_type": "Vin",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 2,
-      "user_name": "THOMAS",
-      "user_gender": 1,
-      "user_first_name": "adam",
-      "user_email": "email3@gmail.com",
-      "bar_type": "Bar à Vin",
-      "bar_location": "Saint Pierre",
-      "alcohol_type": "Vin",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 3,
-      "user_name": "PETIT",
-      "user_gender": 1,
-      "user_first_name": "nino",
-      "user_email": "email4@gmail.com",
       "bar_type": "Bar à Bière",
-      "bar_location": "Victoire",
       "alcohol_type": "Bière",
-      "user_acceptance": false
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€€"
     },
     {
-      "user_id": 4,
-      "user_name": "ROBERT",
-      "user_gender": 1,
-      "user_first_name": "vivien",
-      "user_email": "email5@gmail.com",
+      "bar_id": 1,
+      "bar_name": "Au bon Jaja",
+      "bar_location": "Porte de Bourgogne",
+      "bar_type": "Bar à Vin",
+      "alcohol_type": "Vin",
+      "bar_game": false,
+      "bar_terrace": true,
+      "bar_tv_broadcast": false,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 2,
+      "bar_name": "Aux 4 coins du vin",
+      "bar_location": "Saint Pierre",
+      "bar_type": "Bar à Vin",
+      "alcohol_type": "Vin",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 3,
+      "bar_name": "Barberousse ",
+      "bar_location": "Victoire",
       "bar_type": "Bar à Rhum",
+      "alcohol_type": "Rhum",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 4,
+      "bar_name": "Café brun",
       "bar_location": "Saint Rémi",
-      "alcohol_type": "Rhum",
-      "user_acceptance": false
+      "bar_type": "Bar à Bière",
+      "alcohol_type": "Bière",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": true,
+      "bar_price": "€€"
     },
     {
-      "user_id": 5,
-      "user_name": "RICHARD",
-      "user_gender": 1,
-      "user_first_name": "lorys",
-      "user_email": "email6@gmail.com",
-      "bar_type": "Bar à Bière",
+      "bar_id": 5,
+      "bar_name": "Café des moines",
       "bar_location": "Saint Michel",
-      "alcohol_type": "Bière",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 6,
-      "user_name": "DURAND",
-      "user_gender": 1,
-      "user_first_name": "côme",
-      "user_email": "email7@gmail.com",
-      "bar_type": "Bar à Cocktail",
-      "bar_location": "Gambetta",
-      "alcohol_type": "Tequila",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 7,
-      "user_name": "DUBOIS",
-      "user_gender": 1,
-      "user_first_name": "théodore",
-      "user_email": "email8@gmail.com",
-      "bar_type": "Bar à Cocktail",
-      "bar_location": "Saint Pierre",
-      "alcohol_type": "Rhum",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 8,
-      "user_name": "MOREAU",
-      "user_gender": 2,
-      "user_first_name": "Emma",
-      "user_email": "email9@gmail.com",
-      "bar_type": "Bar à Vin",
-      "bar_location": "Gambetta",
-      "alcohol_type": "Vin",
-      "user_acceptance": false
-    },
-    {
-      "user_id": 9,
-      "user_name": "LAURENT",
-      "user_gender": 2,
-      "user_first_name": "Jade",
-      "user_email": "email10@gmail.com",
-      "bar_type": "Bar Gay",
-      "bar_location": "Hotel de Ville",
-      "alcohol_type": "Bière",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 10,
-      "user_name": "SIMON",
-      "user_gender": 2,
-      "user_first_name": "Louise",
-      "user_email": "email11@gmail.com",
-      "bar_type": "PUB Anglais",
-      "bar_location": "Victoire",
-      "alcohol_type": "Whisky Bourbon",
-      "user_acceptance": false
-    },
-    {
-      "user_id": 11,
-      "user_name": "MICHEL",
-      "user_gender": 2,
-      "user_first_name": "Alice",
-      "user_email": "email12@gmail.com",
-      "bar_type": "PUB Anglais",
-      "bar_location": "Victoire",
-      "alcohol_type": "Whisky Bourbon",
-      "user_acceptance": false
-    },
-    {
-      "user_id": 12,
-      "user_name": "LEFEBVRE",
-      "user_gender": 2,
-      "user_first_name": "Chloé",
-      "user_email": "email13@gmail.com",
       "bar_type": "Bar à Bière",
-      "bar_location": "Hotel de Ville",
       "alcohol_type": "Bière",
-      "user_acceptance": false
+      "bar_game": true,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€"
     },
     {
-      "user_id": 13,
-      "user_name": "LEROY",
-      "user_gender": 2,
-      "user_first_name": "Lina",
-      "user_email": "email14@gmail.com",
-      "bar_type": "Bar à Cocktail",
-      "bar_location": "Saint Pierre",
-      "alcohol_type": "Whisky Bourbon",
-      "user_acceptance": false
-    },
-    {
-      "user_id": 14,
-      "user_name": "ROUX",
-      "user_gender": 2,
-      "user_first_name": "Léa",
-      "user_email": "email15@gmail.com",
-      "bar_type": "Bar à Cocktail",
-      "bar_location": "Saint Pierre",
-      "alcohol_type": "Gin",
-      "user_acceptance": false
-    },
-    {
-      "user_id": 15,
-      "user_name": "DAVID",
-      "user_gender": 2,
-      "user_first_name": "Rose",
-      "user_email": "email16@gmail.com",
-      "bar_type": "Bar à Vin",
+      "bar_id": 6,
+      "bar_name": "Casey's Pub",
       "bar_location": "Gambetta",
-      "alcohol_type": "Vin",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 16,
-      "user_name": "BERTRAND",
-      "user_gender": 2,
-      "user_first_name": "Anna",
-      "user_email": "email17@gmail.com",
-      "bar_type": "Bar à Vin",
-      "bar_location": "Chartrons",
-      "alcohol_type": "Vin",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 17,
-      "user_name": "MOREL",
-      "user_gender": 2,
-      "user_first_name": "Mila",
-      "user_email": "email18@gmail.com",
-      "bar_type": "Bar à Cocktail",
-      "bar_location": "Hôtel de Ville",
-      "alcohol_type": "Vodka",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 18,
-      "user_name": "FOURNIER",
-      "user_gender": 2,
-      "user_first_name": "Inès",
-      "user_email": "email19@gmail.com",
-      "bar_type": "Bar à Vin",
-      "bar_location": "Victoire",
-      "alcohol_type": "Vin",
-      "user_acceptance": true
-    },
-    {
-      "user_id": 19,
-      "user_name": "GIRARD",
-      "user_gender": 1,
-      "user_first_name": "Philippe",
-      "user_email": "email20@gmail.com",
-      "bar_type": "Bar à Cocktail",
-      "bar_location": "Victoire",
+      "bar_type": "PUB Anglais",
       "alcohol_type": "Whisky Bourbon",
-      "user_acceptance": false
+      "bar_game": true,
+      "bar_terrace": true,
+      "bar_tv_broadcast": true,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 7,
+      "bar_name": "Cancan Bordeaux",
+      "bar_location": "Saint Pierre",
+      "bar_type": "Bar à Cocktail",
+      "alcohol_type": "Rhum",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€€"
+    },
+    {
+      "bar_id": 8,
+      "bar_name": "Chez le Pépère",
+      "bar_location": "Gambetta",
+      "bar_type": "Bar à Vin",
+      "alcohol_type": "Vin",
+      "bar_game": false,
+      "bar_terrace": true,
+      "bar_tv_broadcast": true,
+      "bar_price": "€€"
+    },
+    {
+      "bar_id": 9,
+      "bar_name": "COCO LOKO",
+      "bar_location": "Hotel de Ville",
+      "bar_type": "Bar Gay",
+      "alcohol_type": "Bière",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": true,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 10,
+      "bar_name": "Grizzly",
+      "bar_location": "Victoire",
+      "bar_type": "PUB Anglais",
+      "alcohol_type": "Whisky Bourbon",
+      "bar_game": false,
+      "bar_terrace": true,
+      "bar_tv_broadcast": true,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 11,
+      "bar_name": "HMS Victory",
+      "bar_location": "Victoire",
+      "bar_type": "PUB Anglais",
+      "alcohol_type": "Whisky Bourbon",
+      "bar_game": true,
+      "bar_terrace": true,
+      "bar_tv_broadcast": true,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 12,
+      "bar_name": "Jaqen Craft Beer",
+      "bar_location": "Hotel de Ville",
+      "bar_type": "Bar à Bière",
+      "alcohol_type": "Bière",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€€"
+    },
+    {
+      "bar_id": 13,
+      "bar_name": "L'Alchimiste",
+      "bar_location": "Hôtel de Ville",
+      "bar_type": "Bar à Cocktail",
+      "alcohol_type": "Whisky Bourbon",
+      "bar_game": false,
+      "bar_terrace": true,
+      "bar_tv_broadcast": false,
+      "bar_price": "€€"
+    },
+    {
+      "bar_id": 14,
+      "bar_name": "Le Nouvel Empire",
+      "bar_location": "St Pierre",
+      "bar_type": "Bar à Cocktail",
+      "alcohol_type": "Gin",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€€"
+    },
+    {
+      "bar_id": 15,
+      "bar_name": "Les Trois Pinardiers",
+      "bar_location": "Gambetta",
+      "bar_type": "Bar à Vin",
+      "alcohol_type": "Vin",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€€"
+    },
+    {
+      "bar_id": 16,
+      "bar_name": "Le verre ô vin",
+      "bar_location": "Chartrons",
+      "bar_type": "Bar à Vin",
+      "alcohol_type": "Vin",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 17,
+      "bar_name": "Levrette Cafe",
+      "bar_location": "Hôtel de Ville",
+      "bar_type": "Bar à Bière",
+      "alcohol_type": "Bière",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": null,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 18,
+      "bar_name": "L'Excale",
+      "bar_location": "Victoire",
+      "bar_type": "Bar à Rhum",
+      "alcohol_type": "Rhum",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 19,
+      "bar_name": "Mama Shelter",
+      "bar_location": "Saint Christoly",
+      "bar_type": "Bar à Cocktail",
+      "alcohol_type": "Whisky Bourbon",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": false,
+      "bar_price": "€€"
+    },
+    {
+      "bar_id": 20,
+      "bar_name": "Mushroom Café",
+      "bar_location": "Gambetta",
+      "bar_type": "Bar à Bière",
+      "alcohol_type": "Bière",
+      "bar_game": false,
+      "bar_terrace": true,
+      "bar_tv_broadcast": true,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 21,
+      "bar_name": "Sherlock Holmes",
+      "bar_location": "Gambetta",
+      "bar_type": "Bar à Bière",
+      "alcohol_type": "Bière",
+      "bar_game": true,
+      "bar_terrace": true,
+      "bar_tv_broadcast": false,
+      "bar_price": "€"
+    },
+    {
+      "bar_id": 22,
+      "bar_name": "Zytho",
+      "bar_location": "Chartrons",
+      "bar_type": "Bar à Bière",
+      "alcohol_type": "Bière",
+      "bar_game": false,
+      "bar_terrace": false,
+      "bar_tv_broadcast": true,
+      "bar_price": "€"
+    }
+  ],
+  "alcohols": [
+    {
+      "alcohol_id": 0,
+      "alcohol_type": "Bière",
+      "alcohol_name": "Levrette"
+    },
+    {
+      "alcohol_id": 1,
+      "alcohol_type": "Bière",
+      "alcohol_name": "Leffe"
+    },
+    {
+      "alcohol_id": 2,
+      "alcohol_type": "Bière",
+      "alcohol_name": "Heineken"
+    },
+    {
+      "alcohol_id": 3,
+      "alcohol_type": "Bière",
+      "alcohol_name": "Maredsous Triple"
+    },
+    {
+      "alcohol_id": 4,
+      "alcohol_type": "Rhum",
+      "alcohol_name": "Ti-Punch"
+    },
+    {
+      "alcohol_id": 5,
+      "alcohol_type": "Vodka",
+      "alcohol_name": "Moscow Mule"
+    },
+    {
+      "alcohol_id": 6,
+      "alcohol_type": "Cachaca",
+      "alcohol_name": "Caipirinha"
+    },
+    {
+      "alcohol_id": 7,
+      "alcohol_type": "Rhum",
+      "alcohol_name": "Punch"
+    },
+    {
+      "alcohol_id": 8,
+      "alcohol_type": "Bière",
+      "alcohol_name": "Fisher"
+    },
+    {
+      "alcohol_id": 9,
+      "alcohol_type": "Bière",
+      "alcohol_name": "Chouffe"
+    },
+    {
+      "alcohol_id": 10,
+      "alcohol_type": "Rhum",
+      "alcohol_name": "Mojito"
+    },
+    {
+      "alcohol_id": 11,
+      "alcohol_type": "Rhum",
+      "alcohol_name": "Cuba Libre"
+    },
+    {
+      "alcohol_id": 12,
+      "alcohol_type": "Tequila",
+      "alcohol_name": "Margarita"
+    },
+    {
+      "alcohol_id": 13,
+      "alcohol_type": "Whisky Bourbon",
+      "alcohol_name": "Old Fashioned"
+    },
+    {
+      "alcohol_id": 14,
+      "alcohol_type": "Gin",
+      "alcohol_name": "Gin Tonic"
+    },
+    {
+      "alcohol_id": 15,
+      "alcohol_type": "Gin",
+      "alcohol_name": "Gin Fizz"
+    },
+    {
+      "alcohol_id": 16,
+      "alcohol_type": "Tequila",
+      "alcohol_name": "Tequila Sunrise"
+    },
+    {
+      "alcohol_id": 17,
+      "alcohol_type": "Vodka",
+      "alcohol_name": "Bloody Mary"
+    },
+    {
+      "alcohol_id": 18,
+      "alcohol_type": "Vin",
+      "alcohol_name": "St Emilion 2007"
+    },
+    {
+      "alcohol_id": 19,
+      "alcohol_type": "Vin",
+      "alcohol_name": "Spritz"
     }
   ]
 }
